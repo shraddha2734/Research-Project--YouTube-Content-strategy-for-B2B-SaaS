@@ -19,16 +19,16 @@
 10. Saved the file and uploaded the changes to GitHub
 
 ## Issues Faced
-- Due to lack of prior familiarity with the setup of both Cursor and GitHub, I faced initial technical difficulties with the outline of the installation process.
-- Locating the Extensions tab and identifying the appropriate extensions for both Claude Code and Codex was quite challenging.
-- I was unaware of creating a tailored repository and including the README file.
-- Following browser authentication for all the tools was highly time consuming.
+- Due to lack of prior familiarity with the setup of both Cursor and GitHub, I faced initial technical difficulties with the outline of the installation process
+- Locating the Extensions tab and identifying the appropriate extensions for both Claude Code and Codex was quite challenging
+- I was unaware of creating a tailored repository and including the README file
+- Following browser authentication for all the tools was highly time consuming
 
 ## Measures taken to resolve the issues
-- Rather than opting for vague explanations on websites such as YouTube, I derived detailed steps on installation and extraction of the required tools through AI platforms such as Google Gemini.
-- I referred to the Extensions search feature in Cursor to find the required add-ons.
-- I primarily created the GitHub repository and then went on to open the folder within Cursor.
-- I mindfully completed the authorization prompts for both extensions with utmost patience so as to prevent unnecessary additional glitches or delays.
+- Rather than opting for vague explanations on websites such as YouTube, I derived detailed steps on installation and extraction of the required tools through AI platforms such as Google Gemini
+- I referred to the Extensions search feature in Cursor to find the required add-ons
+- I primarily created the GitHub repository and then went on to open the folder within Cursor
+- I mindfully completed the authorization prompts for both extensions with utmost patience so as to prevent unnecessary additional glitches or delays
 
 ## Final Outcome
 Successfully installed the required tools, immersively experienced the creation of a public GitHub repository as a first time user, added the README.md file in which customized content was typed in, and subsequently pushed the project to GitHub. Accomplished a tiny, yet significant aspect of project creation regardless of the outcome fear.
