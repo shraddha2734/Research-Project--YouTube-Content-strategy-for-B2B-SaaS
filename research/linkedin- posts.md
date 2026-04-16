@@ -9,3 +9,6 @@
 ## 3. Dave Gerardt
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7450212745607593984?collapsed=1" height="541" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+## 4. Neil Patel
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7450664439596453889?collapsed=1" height="636" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
