@@ -1,6 +1,6 @@
 # YouTube Content Strategy for B2B SaaS
 
-## Reason to choose this topic
+## Reason for topic selection
 - YouTube is becoming an important channel for B2B SaaS companies to build trust and generate leads. Hence, this topic seemed to be highly relevant and significant.
 
 ## Actions performed
