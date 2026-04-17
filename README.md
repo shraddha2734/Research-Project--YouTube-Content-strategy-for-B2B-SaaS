@@ -1,34 +1,33 @@
-# Cursor / Claude / Codex Setup Assignment
+# YouTube Content Strategy for B2B SaaS
 
-## Tools Installed
-- Cursor IDE
-- Claude Code extension in Cursor
-- Codex extension in Cursor
-- GitHub
+## Reason to choose this topic
+- YouTube is becoming an important channel for B2B SaaS companies to build trust and generate leads. Hence, this topic seemed to be highly relevant and significant.
 
-## Steps Completed
-1. Installation of Cursor IDE by downloading the application
-2. Opened Cursor upon installation to access the Extensions tab
-3. Primarily searched for the Claude Code extension in the tab and pressed install
-4. Repeated the previous step to install the Codex extension as well
-5. Created a GitHub account as a first time user
-6. Logged in to GitHub with the registered e-mail id
-7. Created a public GitHub repository and added a README file to ease the process
-8. Opened the repository in Cursor by selecting the downloaded and extracted ZIP file
-9. Created and edited the README.md file
-10. Saved the file and uploaded the changes to GitHub
+## Actions performed
+- Collected 10 experts in B2B SaaS and marketing
+- Analyzed their YouTube videos and LinkedIn posts
+- Gathered transcripts and content examples
 
-## Issues Faced
-- Due to lack of prior familiarity with the setup of both Cursor and GitHub, I faced initial technical difficulties with the outline of the installation process
-- Locating the Extensions tab and identifying the appropriate extensions for both Claude Code and Codex was quite challenging
-- I was unaware of creating a tailored repository and including the README file
-- Following browser authentication for all the tools was highly time consuming
+## Data collected
+- 10 YouTube transcripts, 1 per expert
+- 10 LinkedIn posts, 1 per expert
 
-## Measures taken to resolve the issues
-- Rather than opting for vague explanations on websites such as YouTube, I derived detailed steps on installation and extraction of the required tools through AI platforms such as Google Gemini
-- I referred to the Extensions search feature in Cursor to find the required add-ons
-- I primarily created the GitHub repository and then went on to open the folder within Cursor
-- I mindfully completed the authorization prompts for both extensions with utmost patience so as to prevent unnecessary additional glitches or delays
+## Key Insights
 
-## Final Outcome
-Successfully installed the required tools, immersively experienced the creation of a public GitHub repository as a first time user, added the README.md file in which customized content was typed in, and subsequently pushed the project to GitHub. Accomplished a tiny, yet significant aspect of project creation regardless of the outcome fear.
+### 1. Strong hooks are critical
+Most videos capture attention in first 5–10 seconds.
+
+### 2. Education builds trust
+Experts focus on teaching, not selling.
+
+### 3. Consistency matters
+Posting regularly is more important than viral videos.
+
+### 4. Simple content works
+High production is less important than clarity.
+
+### 5. Repurposing content
+Many experts reuse content across platforms.
+
+## Conclusion
+YouTube is a powerful channel for B2B SaaS growth when used consistently with educational and valuable content. However, several of these experts were seen to have published a post several months or even years ago. This highlights the subtle yet intense importance given to high- quality content rather than the quantity.
